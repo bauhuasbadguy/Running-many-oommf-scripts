@@ -54,7 +54,6 @@ At the moment the script works fine when used to work windows files but for some
 
 ###Future plans
 
-Make the thing work with the HPC as originaly intended
 
 Make it into a module
 
