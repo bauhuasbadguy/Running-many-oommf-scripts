@@ -3,7 +3,8 @@ Running-many-oommf-scripts
 
 Python module and example shell file for running many oommf files at the same time
 
-Created by Stuart Bowe and Duncan Parkes
+Created by Stuart Bowe
+Inspired by code by Duncan Parkes
 
 ###Description
 
